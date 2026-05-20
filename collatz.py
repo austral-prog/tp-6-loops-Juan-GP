@@ -12,7 +12,8 @@ def collatz_steps(n):
     Ejemplo: collatz_steps(6) -> 8
       6 -> 3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1  (8 pasos)
     """
-    return "ANSWER HERE"  # Remove this line and implement
+    if n = n//2
+        
 
 
 def collatz_sequence(n):

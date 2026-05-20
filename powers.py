@@ -7,8 +7,10 @@ def power(base, exp):
 
     Ejemplo: power(2, 3) -> 8  (2*2*2)
     """
-    return "ANSWER HERE"  # Remove this line and implement
-
+    for exp in range(0,):
+       potencia = base**exp
+    return potencia
+    
 
 def sum_of_powers(base, max_exp):
     """
